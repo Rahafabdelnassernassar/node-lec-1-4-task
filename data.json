@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "fName": "rahaf",
+    "Lname": "nassar",
+    "city": "qalubia",
+    "age": 20
+  },
+  { "id": 2, "fName": "amin", "Lname": "nassar", "city": "qalubia", "age": 30 },
+  {
+    "id": 3,
+    "fName": "islam",
+    "Lname": "nassar",
+    "city": "qalubia",
+    "age": 27
+  },
+  {
+    "id": 5,
+    "fName": "mohammed",
+    "Lname": "ahmed",
+    "city": "cairo",
+    "age": 30
+  }
+]
